@@ -3,9 +3,9 @@
 -   [ ] Implement Simple Linear Regression in Python/R
 -   [ ] Implement Multiple Linear Regression in Python/R
 -   [ ] Implement Logistic Regression in Python/R
--   [ ] Implement Time Series Analysis in Python
+-   [x] Implement Time Series Analysis in Python
 -   [ ] Implement Time Series Analysis in R
--   [ ] Implement ARIMA Model in Python/R
+-   [x] Implement ARIMA Model in Python/R
 -   [ ] Implement Spam filter in Python/R
 -   [ ] Implement Sentiment analysis in Python/R
 -   [ ] Implement Word Cloud in Python/R
