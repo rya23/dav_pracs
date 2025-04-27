@@ -9,5 +9,5 @@
 -   [ ] Implement Spam filter in Python/R
 -   [ ] Implement Sentiment analysis in Python/R
 -   [ ] Implement Word Cloud in Python/R
--   [ ] Selecting appropriate database and applying various visualization techniques on it using R libraries
+-   [x] Selecting appropriate database and applying various visualization techniques on it using R libraries
 -   [ ] Selecting appropriate database and applying various visualization techniques on it using Python libraries
