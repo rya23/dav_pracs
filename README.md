@@ -2,7 +2,7 @@
 
 -   [x] Implement Simple Linear Regression in Python/R
 -   [X] Implement Multiple Linear Regression in Python/R
--   [ ] Implement Logistic Regression in Python/R
+-   [x] Implement Logistic Regression in Python/Rx
 -   [x] Implement Time Series Analysis in Python
 -   [ ] Implement Time Series Analysis in R
 -   [x] Implement ARIMA Model in Python/R
